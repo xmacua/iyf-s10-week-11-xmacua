@@ -1,7 +1,7 @@
 # Week 11: CommunityHub API
 
 ## Author
-- **Name:** Your Full Name
+- **Name:** Vivian macua
 - **GitHub:** [@xmacua](https://github.com/xmacua)
 - **Date:** May 14, 2026
 
